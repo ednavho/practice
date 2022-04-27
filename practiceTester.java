@@ -7,6 +7,6 @@ public class practiceTester {
     
     @Test
     public void multiplication() {
-        assertEquals(8, practice.multiply(4,3));
+        assertEquals(8, practice.multiply(4,2));
     }
 }
